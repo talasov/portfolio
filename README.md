@@ -9,7 +9,6 @@
 
 * ### "Продуктовый помощник" (Foodgram)
   - Стек технологий: Python 3, Django, Django Rest, React, Docker, PostgreSQL, nginx, gunicorn, Djoser.
-  - http://foodgramhost.sytes.net (ip 158.160.7.182)
   - Ссылка на проект https://github.com/talasov/foodgram-project-react
 
 * ### Yatube (написание api для соц сети)
